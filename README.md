@@ -24,7 +24,7 @@ Note: The provided screenshot shows the virtual machine running Ubuntu 24.04, wh
 🛠️ Tool Installation and Verification
 Here are the tools installed for the project, with commands and verification screenshots.
 
-#### **Yosys**
+# Yosys
 
 Yosys is an open-source framework for Verilog RTL synthesis[cite: 12].
 
@@ -71,17 +71,17 @@ The installation was successful as confirmed by the terminal output showing the 
 
 The installation was successful as confirmed by the terminal output showing the version and license information. .
 
-Icarus Verilog (Iverilog)
+# Icarus Verilog (Iverilog)
 
 Icarus Verilog is a Verilog compiler and simulator.
 
 Installation Steps:
 
-# Update the package list
+Update the package list
 ```bash
 sudo apt-get update
 ```
-# Install Icarus Verilog
+Install Icarus Verilog
 ```bash
 sudo apt-get install iverilog
 ```
@@ -93,7 +93,7 @@ Verification:
 
 The installation was successful, and running the iverilog command displays its usage instructions, indicating the tool is properly installed and accessible. .
 
-GTKWave
+# GTKWave
 GTKWave is a waveform viewer used to display simulation results.
 
 Installation Steps:
@@ -111,7 +111,7 @@ Verification:
 
 The tool was successfully installed, and launching it with the gtkwave command opens the GTKWave Analyzer. .
 
-ngspice
+# ngspice
 ngspice is a circuit simulator.
 
 Installation Steps:
@@ -151,7 +151,7 @@ Verification:
 
 Running ngspice -v shows the version and copyright information, confirming the installation was successful. .
 
-Magic VLSI Layout Tool
+# Magic VLSI Layout Tool
 Magic is a VLSI layout tool.
 
 Installation Steps:
