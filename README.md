@@ -65,7 +65,6 @@ Yosys is an open-source framework for Verilog RTL synthesis[cite: 12].
 
 **Verification:**
 
-The installation was successful as confirmed by the terminal output showing the version and license information.
 <img width="1030" height="642" alt="Screenshot 2025-09-20 172529" src="https://github.com/user-attachments/assets/d38ef575-a27c-4959-90aa-ef0248cf80fb" />
 <img width="1022" height="221" alt="Screenshot 2025-09-20 172504" src="https://github.com/user-attachments/assets/bcdbf6ae-186f-45ba-9c9f-6a29df5c0627" />
 
